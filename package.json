@@ -22,6 +22,8 @@
   },
   "homepage": "https://github.com/devjoca/peru-compras-scraping#readme",
   "dependencies": {
+    "export-to-csv": "^0.2.1",
+    "lodash": "^4.17.15",
     "puppeteer": "^3.1.0"
   },
   "devDependencies": {
